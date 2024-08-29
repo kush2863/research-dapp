@@ -1,5 +1,5 @@
-import DotPattern1 from '@/components/HomePageBackground'
-import { Button } from '@/components/ui/button'
+import DotPattern1 from '../components/HomePageBackground'
+import { Button } from '../components/ui/button'
 import React from 'react'
 
 const page = () => {
